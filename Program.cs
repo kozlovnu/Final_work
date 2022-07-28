@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string[] array ={"spb", "moscow", "NY", "-2", "556"};
+int newArraySize = 0;
+string[] resultArray = new string[newArraySize];
+
+
